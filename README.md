@@ -1,27 +1,30 @@
 # Hi, I'm an AI Data Annotator & Evaluator 👋
 
-I'm a freelance AI Data Annotator and Evaluator with experience in AI-generated speech and text-to-speech (TTS) evaluation.
+I'm a freelance AI Data Annotator and Evaluator with experience evaluating AI-generated speech and text-to-speech (TTS) outputs.
 
 ## Skills
-- AI Response Evaluation
+- AI-Generated Speech Evaluation
 - Audio Quality Assessment
-- TTS Naturalness and Pronunciation Evaluation
+- TTS Naturalness Evaluation
+- Pronunciation Assessment
 - Guideline-Based Evaluation
 - Attention to Detail
 
-## Projects
-
-### AI Audio Evaluation
-Independent practice evaluating speech quality, naturalness, pronunciation, and contextual appropriateness.
-
-### Data Analysis
-Currently learning Excel and developing beginner-friendly data analysis projects.
+## Areas of Evaluation
+- Audio Quality
+- Speech Naturalness
+- Pronunciation Accuracy
+- Contextual Appropriateness
+- Persona Likeness
+- Evaluation Consistency
 
 ## Career Interests
-- AI Data Annotation
-- AI Quality Evaluation
-- Audio and Speech Evaluation
-- Junior Data Analyst
+- AI Data Annotator
+- Audio and Speech Annotator
+- AI Data Labeling Specialist
+- AI Quality Evaluator
+- TTS and Speech Quality Evaluator
+- AI Content Reviewer
 
 ## Contact
-Feel free to connect with me regarding relevant professional opportunities.
+Open to relevant remote freelance opportunities in AI data annotation, data labeling, and AI evaluation.
