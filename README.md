@@ -1,44 +1,44 @@
 # Hi, I'm an AI Data Annotator & Evaluator 👋
 
-I'm a freelance AI Data Annotator and Evaluator with experience evaluating AI-generated speech and text-to-speech (TTS) outputs. I also build personal portfolio projects to practice image annotation, object detection labeling, and quality checking.
+I'm a freelance AI Data Annotator and Evaluator with experience evaluating AI-generated speech and text-to-speech (TTS) outputs. I also build personal portfolio projects to develop and demonstrate my image annotation skills.
 
-## Skills
+## Professional Experience & Skills
 
 - AI-Generated Speech Evaluation
 - Audio Quality Assessment
 - TTS Naturalness Evaluation
 - Pronunciation Assessment
-- Image Annotation
-- Object Detection Labeling
-- Bounding Box Annotation
 - Guideline-Based Evaluation
 - Attention to Detail
 
-## Areas of Evaluation
+## Skills Practiced Through Personal Projects
 
-- Audio Quality
-- Speech Naturalness
-- Pronunciation Accuracy
-- Contextual Appropriateness
-- Persona Likeness
-- Evaluation Consistency
-- Image Annotation Accuracy
+- Image Annotation
+- Object Detection Labeling
+- Bounding Box Annotation
 - Object Class Labeling
-- Bounding Box Placement
 
 ## Portfolio Projects
 
 ### 1. AI Speech Evaluation Portfolio
 
-A personal portfolio demonstrating evaluation of AI-generated speech and text-to-speech (TTS) samples, with a focus on audio quality, naturalness, pronunciation, and contextual appropriateness.
+A personal portfolio demonstrating the evaluation of AI-generated speech and text-to-speech (TTS) samples, focusing on audio quality, naturalness, pronunciation, and contextual appropriateness.
 
-🔗 [View AI Speech Evaluation Portfolio](https://github.com/FajarIrnt/ai-speech-evaluation-portfolio)
+[View AI Speech Evaluation Portfolio](https://github.com/FajarIrnt/ai-speech-evaluation-portfolio)
 
 ### 2. Image Annotation Portfolio
 
-A personal project demonstrating manual image annotation using Roboflow, including bounding boxes, object class labels, and annotation quality checks.
+A personal project using Roboflow to practice drawing bounding boxes around everyday objects and assigning appropriate class labels for object detection.
 
-🔗 [View Image Annotation Portfolio](https://github.com/FajarIrnt/image-annotation-portfolio)
+[View Image Annotation Portfolio](https://github.com/FajarIrnt/image-annotation-portfolio)
+
+## Tools
+
+- **Roboflow** — Image annotation and bounding box labeling
+- **Audacity** — Audio playback and waveform inspection
+- **TTSMaker** — Generating text-to-speech samples for personal portfolio projects
+- **Pexels** — Sourcing reference images for personal annotation projects
+- **GitHub** — Portfolio documentation and project organization
 
 ## Career Interests
 
@@ -49,14 +49,6 @@ A personal project demonstrating manual image annotation using Roboflow, includi
 - AI Quality Evaluator
 - Annotation Quality Reviewer
 - AI Content Reviewer
-
-## Tools
-
-- **Roboflow** — Image annotation and bounding box labeling
-- **Audacity** — Audio playback and waveform inspection
-- **TTSMaker** — Generating text-to-speech samples for personal portfolio projects
-- **Pexels** — Sourcing reference images for personal annotation projects
-- **GitHub** — Portfolio documentation and project organization
 
 ## Career Availability
 
