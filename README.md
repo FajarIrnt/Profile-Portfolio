@@ -52,9 +52,12 @@ A personal project demonstrating manual image annotation using Roboflow, includi
 
 ## Tools
 
-- Roboflow
-- GitHub
+- **Roboflow** — Image annotation and bounding box labeling
+- **Audacity** — Audio playback and waveform inspection
+- **TTSMaker** — Generating text-to-speech samples for personal portfolio projects
+- **Pexels** — Sourcing reference images for personal annotation projects
+- **GitHub** — Portfolio documentation and project organization
 
-## Contact
+## Career Availability
 
-Open to relevant remote freelance opportunities in AI data annotation, data labeling, and AI evaluation.
+Open to remote full-time, part-time, freelance, and contract opportunities in AI data annotation, data labeling, image and audio annotation, and AI evaluation.
