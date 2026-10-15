@@ -32,13 +32,13 @@ A personal project using Roboflow to practice drawing bounding boxes around ever
 
 [View Image Annotation Portfolio](https://github.com/FajarIrnt/image-annotation-portfolio)
 
-## Tools
+## Tools & Platforms
 
-- **Roboflow** — Image annotation and bounding box labeling
-- **Audacity** — Audio playback and waveform inspection
-- **TTSMaker** — Generating text-to-speech samples for personal portfolio projects
-- **Pexels** — Sourcing reference images for personal annotation projects
-- **GitHub** — Portfolio documentation and project organization
+- **Image Annotation:** Roboflow — bounding boxes and object class labeling
+- **Audio Editing:** Audacity — editing audio samples and adding noise for personal projects
+- **TTS Sample Generation:** TTSMaker — generating speech samples for personal projects
+- **Image Resources:** Pexels — sourcing reference images for personal annotation projects
+- **Portfolio & Documentation:** GitHub — project documentation and portfolio management
 
 ## Career Interests
 
