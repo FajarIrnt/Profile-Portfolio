@@ -56,14 +56,6 @@ A personal practice project using Roboflow to annotate everyday objects for obje
 - Bounding Box Annotation
 - Object Class Labeling
 
-## Tools & Platforms
-
-- **Roboflow:** Image annotation and object labeling
-- **Audacity:** Audio editing and adding noise to personal samples
-- **TTSMaker:** Generating speech samples for personal projects
-- **Pexels:** Sourcing reference images for personal annotation projects
-- **GitHub:** Portfolio hosting and project documentation
-
 ## Career Interests
 
 - AI Data Annotator
@@ -73,6 +65,14 @@ A personal practice project using Roboflow to annotate everyday objects for obje
 - AI Quality Evaluator
 - Annotation Quality Reviewer
 
+## Tools & Platforms
+
+- **Roboflow:** Image annotation and object labeling
+- **Audacity:** Audio editing and adding noise to personal samples
+- **TTSMaker:** Generating speech samples for personal projects
+- **Pexels:** Sourcing reference images for personal annotation projects
+- **GitHub:** Portfolio hosting and project documentation
+  
 ## Availability
 
 Open to remote full-time, part-time, freelance, and contract opportunities in AI data annotation, audio evaluation, image annotation, and AI quality evaluation.
