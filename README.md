@@ -39,9 +39,15 @@ A personal practice project using Roboflow to annotate everyday objects for obje
 
 [View Image Annotation Portfolio](https://github.com/FajarIrnt/image-annotation-portfolio)
 
+### 3. Video Annotation — Pedestrian & Vehicle Tracking
+
+A personal practice project demonstrating video annotation and object tracking using CVAT, including bounding box annotation, tracking ID consistency, and occlusion handling across video frames. The repository includes annotation screenshots and exported CVAT annotation files.
+
+[View Video Annotation Portfolio](https://github.com/FajarIrnt/video-annotation-portfolio)
+
 ## Skills
 
-**Professional experience**
+**Professional Experience**
 
 - AI-Generated Speech Evaluation
 - TTS Quality Assessment
@@ -49,12 +55,17 @@ A personal practice project using Roboflow to annotate everyday objects for obje
 - Guideline-Based Evaluation
 - Attention to Detail
 
-**Practiced through personal projects**
+**Practiced Through Personal Projects**
 
 - Image Annotation
+- Video Annotation
+- Pedestrian and Vehicle Tracking
 - Object Detection Labeling
 - Bounding Box Annotation
 - Object Class Labeling
+- Tracking ID Consistency
+- Occlusion Handling
+- Annotation Quality Review
 
 ## Career Interests
 
@@ -64,13 +75,16 @@ A personal practice project using Roboflow to annotate everyday objects for obje
 - AI Data Labeling Specialist
 - AI Quality Evaluator
 - Annotation Quality Reviewer
+- Video Annotator
+- Video Data Annotator
 
 ## Tools & Platforms
 
+- **CVAT:** Video annotation, bounding boxes, and object tracking
 - **Roboflow:** Image annotation and object labeling
 - **Audacity:** Audio editing and adding noise to personal samples
 - **TTSMaker:** Generating speech samples for personal projects
-- **Pexels:** Sourcing reference images for personal annotation projects
+- **Pexels:** Sourcing reference images and videos for personal annotation projects
 - **GitHub:** Portfolio hosting and project documentation
   
 ## Availability
