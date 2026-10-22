@@ -1,6 +1,6 @@
 # Hi, I'm an AI Data Annotator & Evaluator 👋
 
-I'm a freelance AI Data Annotator and Evaluator with professional experience evaluating AI-generated speech and text-to-speech (TTS) outputs. I also develop personal portfolio projects to practice and demonstrate my skills in audio evaluation and image annotation.
+I'm a freelance AI Data Annotator and Evaluator with professional experience evaluating AI-generated speech and text-to-speech (TTS) outputs. I also develop personal portfolio projects to practice and demonstrate my skills in audio evaluation, image annotation, and video annotation.
 
 ## Professional Experience
 
@@ -39,9 +39,17 @@ A personal practice project using Roboflow to annotate everyday objects for obje
 
 [View Image Annotation Portfolio](https://github.com/FajarIrnt/image-annotation-portfolio)
 
-### 3. Video Annotation — Pedestrian & Vehicle Tracking
+### 3. Video Annotation Portfolio — Pedestrian & Vehicle Tracking
 
-A personal practice project demonstrating video annotation and object tracking using CVAT, including bounding box annotation, tracking ID consistency, and occlusion handling across video frames. The repository includes annotation screenshots and exported CVAT annotation files.
+A personal practice project demonstrating video annotation and object tracking using CVAT.
+
+**Project details:**
+
+- Pedestrian and vehicle tracking
+- Bounding box annotation across video frames
+- Tracking ID consistency
+- Occlusion handling and annotation quality checks
+- CVAT annotation exports and visual samples
 
 [View Video Annotation Portfolio](https://github.com/FajarIrnt/video-annotation-portfolio)
 
@@ -89,4 +97,4 @@ A personal practice project demonstrating video annotation and object tracking u
   
 ## Availability
 
-Open to remote full-time, part-time, freelance, and contract opportunities in AI data annotation, audio evaluation, image annotation, and AI quality evaluation.
+Open to remote full-time, part-time, freelance, and contract opportunities in AI data annotation, audio evaluation, image annotation, video annotation, and AI quality evaluation.
